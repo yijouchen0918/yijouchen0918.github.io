@@ -17,9 +17,6 @@
     <loc>https://example.org/tags/hexo-theme/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
-    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.org/posts/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -36,6 +33,9 @@
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/2015/06/welcome-to-tranquilpeak-0.5.3-beta/</loc>
+    <lastmod>2015-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/categories/showcase/</loc>
