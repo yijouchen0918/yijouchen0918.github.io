@@ -2,12 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yijouchen0918.github.io/archives/</loc>
-  </url><url>
     <loc>https://yijouchen0918.github.io/categories/</loc>
+    <lastmod>2023-06-02T01:02:50+08:00</lastmod>
+  </url><url>
+    <loc>https://yijouchen0918.github.io/posts/</loc>
+    <lastmod>2023-06-02T01:02:50+08:00</lastmod>
   </url><url>
     <loc>https://yijouchen0918.github.io/tags/</loc>
+    <lastmod>2023-06-02T01:02:50+08:00</lastmod>
+  </url><url>
+    <loc>https://yijouchen0918.github.io/tags/test/</loc>
+    <lastmod>2023-06-02T01:02:50+08:00</lastmod>
+  </url><url>
+    <loc>https://yijouchen0918.github.io/categories/test/</loc>
+    <lastmod>2023-06-02T01:02:50+08:00</lastmod>
   </url><url>
     <loc>https://yijouchen0918.github.io/</loc>
+    <lastmod>2023-06-02T01:02:50+08:00</lastmod>
+  </url><url>
+    <loc>https://yijouchen0918.github.io/2023/06/yi-jous-first-article/</loc>
+    <lastmod>2023-06-02T01:02:50+08:00</lastmod>
+  </url><url>
+    <loc>https://yijouchen0918.github.io/archives/</loc>
   </url>
 </urlset>
