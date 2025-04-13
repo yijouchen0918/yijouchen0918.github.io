@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Yi-Jou&#39;s Blog</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://yijouchen0918.github.io/categories/</link>
     <description>Recent content in Categories on Yi-Jou&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Apr 2025 21:11:20 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yijouchen0918.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>觀影心得</title>
-      <link>http://localhost:1313/categories/%E8%A7%80%E5%BD%B1%E5%BF%83%E5%BE%97/</link>
+      <link>https://yijouchen0918.github.io/categories/%E8%A7%80%E5%BD%B1%E5%BF%83%E5%BE%97/</link>
       <pubDate>Sun, 13 Apr 2025 21:11:20 +0800</pubDate>
-      <guid>http://localhost:1313/categories/%E8%A7%80%E5%BD%B1%E5%BF%83%E5%BE%97/</guid>
+      <guid>https://yijouchen0918.github.io/categories/%E8%A7%80%E5%BD%B1%E5%BF%83%E5%BE%97/</guid>
       <description></description>
     </item>
     <item>
       <title>隨筆</title>
-      <link>http://localhost:1313/categories/%E9%9A%A8%E7%AD%86/</link>
+      <link>https://yijouchen0918.github.io/categories/%E9%9A%A8%E7%AD%86/</link>
       <pubDate>Sun, 13 Apr 2025 21:11:20 +0800</pubDate>
-      <guid>http://localhost:1313/categories/%E9%9A%A8%E7%AD%86/</guid>
+      <guid>https://yijouchen0918.github.io/categories/%E9%9A%A8%E7%AD%86/</guid>
       <description></description>
     </item>
     <item>
       <title>Test</title>
-      <link>http://localhost:1313/categories/test/</link>
+      <link>https://yijouchen0918.github.io/categories/test/</link>
       <pubDate>Fri, 02 Jun 2023 01:02:50 +0800</pubDate>
-      <guid>http://localhost:1313/categories/test/</guid>
+      <guid>https://yijouchen0918.github.io/categories/test/</guid>
       <description></description>
     </item>
   </channel>
