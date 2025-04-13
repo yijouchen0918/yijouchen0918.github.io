@@ -1,3 +1,9 @@
-{{ range .Params.tags }}
-  <a class="tag tag--primary tag--small" href="{{ $.Site.LanguagePrefix }}/tags/{{ . | urlize }}/">{{ . }}</a>
-{{ end }}
+{{ $tags := .Params.tags }} {{ if $tags }} {{ $tagsList := $tags }} {{ if not
+(reflect.IsSlice $tags) }} {{ $tagsList = slice $tags }} {{ end }} {{ range $tag
+:= $tagsList }} {{ if $tag }}
+<a
+  class="tag tag--primary tag--small"
+  href="{{ $.Site.LanguagePrefix }}tags/{{ $tag | urlize }}/"
+  >{{ $tag }}</a
+>
+{{ end }} {{ end }} {{ end }}

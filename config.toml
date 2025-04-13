@@ -50,23 +50,7 @@ canonifyurls = true
     ordered = false
     startLevel = 1
 
-# ------
-# Author
-# ------
-[author]
-  name = "Yi-Jou Chen"
-  bio = "Starts to create own website on **2023/06/01**"
-  # job = "Your job title"
-  location = "Taipei, Taiwan"
-  # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "ivy850918@gmail.com"
-  # Your profile picture
-  # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
-  # Your Twitter username without the @. E.g : thibaudlepretre
-  # twitter = "thibaudlepretre"
-  # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
-  # googlePlus = "+ThibaudLepretre"
+
 
 # ------------
 # Sidebar menu
@@ -119,14 +103,34 @@ canonifyurls = true
 
 
 
+
+[params]
+# ------
+# Author
+# ------
+  author =  "Yi-Jou Chen"
+  bio = "Starts to create own website on **2023/06/01**"
+  job = "Anxiety cockatiel"  
+  location = "Taipei, Taiwan"  
+
+  # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
+  gravatarEmail = "ivy850918@gmail.com"  
+  
+  # Your profile picture
+  # Overwritten by your gravatar image if `author.gravatarEmail` is filled
+  picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
+  # Your Twitter username without the @. E.g : thibaudlepretre
+  # twitter = "thibaudlepretre"
+  # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
+  # googlePlus = "+ThibaudLepretre"
 # -------------
 # Customization
 # -------------
-[params]
+
   # -----------
   # Description
   # -----------
-  description = "Hugo tranquilpeak theme demo"
+   description = "Hugo tranquilpeak theme demo"
 
   # ------------------
   # Syntax highlighter
@@ -155,7 +159,7 @@ canonifyurls = true
 
   # Define categories will create hierarchy between parents: `categories = ["foo", "bar"]` will consider "bar" a sub-category of "foo".
   # If false it will flat categories.
-  hierarchicalCategories = true
+  hierarchicalCategories = false #調整類別的地方
 
   # Display `Next` on left side of the pagination, and `Prev` on right side one.
   # If you set this value to `true`, these positions swap.
@@ -356,8 +360,8 @@ canonifyurls = true
   # --------------
   [params.comment]
     [params.comment.disqus]
-      enable = true
-      shortname = "hugo-tranquilpeak-theme"
+      #enable = true
+      #shortname = "hugo-tranquilpeak-theme"
     [params.comment.gitalk]
       enable = false
       # clientId =
@@ -366,11 +370,11 @@ canonifyurls = true
       # repo =
       # See all options: https://github.com/gitalk/gitalk#options
       [params.comment.gitalk.options]
-        language = "en"
-        perPage = 10
-        distractionFreeMode = false
-        enableHotKey = true
-        pagerDirection = "first"
+       # language = "en"
+       # perPage = 10
+       # distractionFreeMode = false
+       # enableHotKey = true
+       # pagerDirection = "first"
 
   # --------------------
   # Header configuration
