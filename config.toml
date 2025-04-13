@@ -28,7 +28,8 @@ defaultContentLanguage = "en-us"
 title = "Yi-Jou's Blog"
 theme = "tranquilpeak"
 # googleAnalytics = "UA-123-45"
-paginate = 7
+[pagination]
+pagerSize = 10
 canonifyurls = true
 
 [permalinks]
